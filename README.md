@@ -1,4 +1,3 @@
-
 # @scratch-fuse/utility
 
 A utility that all FUSE components use.
