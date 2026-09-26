@@ -1,6 +1,6 @@
 {
-    "name": "@scratch-fuse/utility",
-    "version": "1.0.0",
+    "name": "@shrimp-fuse/utility",
+    "version": "1.1.0",
     "description": "Utility for all components",
     "homepage": "https://github.com/scratch-fuse/utility#readme",
     "bugs": {
@@ -10,8 +10,8 @@
         "type": "git",
         "url": "git+https://github.com/scratch-fuse/utility.git"
     },
-    "author": "FurryR",
-    "license": "MPL-2.0",
+    "author": "陨落基围虾",
+    "license": "MIT",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
     "types": "dist/index.d.ts",
